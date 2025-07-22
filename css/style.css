@@ -78,14 +78,14 @@ p {
 b,
 strong {
     font-weight: 400;
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
 }
 a {
     color: #777;
 }
 a:hover {
     text-decoration: none;
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
 }
 a:link {
     text-decoration: none;
@@ -196,7 +196,7 @@ textarea {
 input:focus,
 textarea:focus {
     border-bottom-width: 1px;
-    border-color: #e52e71;
+    border-color:  rgb(241, 180, 25);
 }
 input[type="submit"],
 input[type="reset"],
@@ -214,7 +214,7 @@ button {
     border-width: 0;
     -webkit-transition: background-color .15s ease-out;
     transition: background-color .15s ease-out;
-    background-color: #e52e71;
+    background-color:  rgb(241, 180, 25);
     margin: 3px 0;
     outline: none;
 }
@@ -222,7 +222,7 @@ input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover,
 button:hover {
-    background: #e52e71;
+    background:  rgb(241, 180, 25);
     outline: none;
 }
 input[type="radio"],
@@ -233,7 +233,7 @@ input[type="checkbox"] {
 .alert-success {
     background: transparent;
     color: #777;
-    border: 1px solid #e52e71;
+    border: 1px solid  rgb(241, 180, 25);
     border-radius: 0px;
 }
 /* Placeholder */
@@ -281,7 +281,7 @@ td {
 .section-padding span {
     font-size: 30px;
     line-height: 1.5em;
-    color: #e52e71;
+    color: rgb(241, 180, 25);
     font-weight: 400;
     font-family: 'Long Cang', cursive;
 }
@@ -291,7 +291,7 @@ td {
 }
 
 .banner-padding h1 {
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
     font-size: 80px;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -384,7 +384,7 @@ td {
     -webkit-box-flex: 1;
     flex: 1 0;
     height: 1px;
-    background-color: #e52e71;
+    background-color:  rgb(241, 180, 25);
     display: -webkit-box;
     display: flex;
     margin-top: 13px;
@@ -480,11 +480,11 @@ td {
 }
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-    background: #e52e71;
-    border: 1px solid #e52e71;
+    background:  rgb(241, 180, 25);
+    border: 1px solid  rgb(241, 180, 25);
 }
 .owl-theme .owl-nav [class*=owl-] {
-    background-color: #e52e71;
+    background-color:  rgb(241, 180, 25);
     width: 30px;
     height: 30px;
     line-height: 25px;
@@ -495,7 +495,7 @@ td {
     font-size: 12px;
     margin: 5px;
     padding: 4px 7px;
-    background: #e52e71;
+    background:  rgb(241, 180, 25);
     display: inline-block;
     cursor: pointer;
     border-radius: 3px;
@@ -511,8 +511,8 @@ td {
 }
 .owl-theme .owl-nav [class*=owl-]:hover {
     background-color: transparent;
-    border: 1px solid #e52e71;
-    color: #e52e71;
+    border: 1px solid  rgb(241, 180, 25);
+    color:  rgb(241, 180, 25);
 }
 
 
@@ -559,7 +559,7 @@ td {
     transition: all 0.3s ease-out;
 }
 .navbar h1 a.navbar-brand {
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
     font-family: 'Long Cang', cursive;
     font-size: 35px;
 }
@@ -612,10 +612,10 @@ td {
     transition: all 200ms linear;
 }
 .nav-item:hover .nav-link {
-    color: #e52e71 !important;
+    color: rgb(241, 180, 25) !important;
 }
 .nav-item.active .nav-link {
-    color: #e52e71;
+    color: rgb(241, 180, 25);
     font-weight: 400;
 }
 .navbar-light .navbar-nav .nav-link {
@@ -643,7 +643,7 @@ td {
     width: 100%;
     height: 1px;
     content: '';
-    background-color: #e52e71;
+    background-color: rgb(241, 180, 25);
     opacity: 0;
     transition: all 200ms linear;
 }
@@ -659,7 +659,7 @@ td {
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .show > .nav-link {
-    color: #e52e71;
+    color: rgb(241, 180, 25);
 }
 .nav-item .dropdown-menu {
     transform: translate3d(0, 10px, 0);
@@ -702,7 +702,7 @@ td {
 }
 .dropdown-item:hover,
 .dropdown-item:focus {
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
     background-color: #101010;
 }
 .ti-angle-down {
@@ -935,7 +935,7 @@ td {
     bottom: -5%;
     right: -2%;
     z-index: -1;
-    background: #e52e71;
+    background: rgb(241, 180, 25);
 }
 .fredia-about-img .img img {
     position: relative;
@@ -992,7 +992,7 @@ td {
 }
 
 .team .titem .social li a i:hover {
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
 }
 
 
@@ -1033,11 +1033,11 @@ td {
     background-color: #FDF2F5;
 }
 .fredia-services .item:hover {
-    border-bottom: 1px solid #e52e71;
+    border-bottom: 1px solid  rgb(241, 180, 25);
 }
 .fredia-services .item .icon {
     font-size: 60px;
-    color: #e52e71;
+    color: rgb(241, 180, 25);
     line-height: 1.5em;
 }
 .fredia-services .item h5 {
@@ -1047,7 +1047,7 @@ td {
     margin: 10px 0;
 }
 .fredia-services .item.active {
-    border-bottom: 1px solid #e52e71;
+    border-bottom: 1px solid  rgb(241, 180, 25);
 }
 .fredia-services .item ul {
     padding-left: 1.5em;
@@ -1061,7 +1061,7 @@ td {
     display: inline-block;
     margin-left: -1.5em;
     width: 1.5em;
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
 }
 
 
@@ -1132,7 +1132,7 @@ td {
 }
 .services .item .con h5:hover,
 .services .item .con h5 a:hover {
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
 }
 .services .item .con p {
     font-size: 15px;
@@ -1149,21 +1149,21 @@ td {
     padding: 11px 30px;
 }
 .services .item .con .btn:hover {
-    border-color: #e52e71;
+    border-color:  rgb(241, 180, 25);
 }
 /* service price */
 .service-price {}
 .services-price-info {}
 .services-price-info .title {
     font-family: "Teko", sans-serif;
-    color: #e52e71;
+    color: rgb(241, 180, 25);
     margin-bottom: 10px;
     text-align: left;
-    border-bottom: 1px dashed #e52e71;
+    border-bottom: 1px dashed  rgb(241, 180, 25);
     line-height: 2em;
 }
 .services-price-info .title .price {
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
     float: right;
 }
 .services-price-info .title {
@@ -1216,7 +1216,7 @@ td {
 .testimonials .item-box .info .cont span {
    font-family: 'Didact Gothic', sans-serif;
     font-size: 14px;
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
 }
 .testimonials .owl-stage-outer {
   padding: 15px 0;
@@ -1233,7 +1233,7 @@ td {
   -webkit-transform: scale(1);
   transform: scale(1);
   opacity: 1;
-    border-bottom: 3px solid #e52e71;
+    border-bottom: 3px solid  rgb(241, 180, 25);
 }
 
 
@@ -1286,7 +1286,7 @@ td {
 }
 .price .item .value p {
     margin-top: 0px;
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
 }
 .price .item .feat ul {
     margin-bottom: 30px;
@@ -1355,7 +1355,7 @@ td {
     opacity: 1;
 }
 .gallery-box:hover .gallery-img:after {
-    background: rgba(229, 46, 113, 0.75);
+    background: rgba(238, 215, 100, 0.75);
 }
 .gallery-box:hover .gallery-img > img {
     transform: scale(1.05);
@@ -1388,15 +1388,15 @@ td {
 }
 .blog-grid .item .cont .info .author {
   margin-right: 0px;
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
 }
 .blog-grid .item .cont .info .author span {
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
     font-family: 'Teko', sans-serif;
     font-size: 13px;
 }
 .blog-grid .item .cont .info .tag {
-  color: #e52e71;
+  color:  rgb(241, 180, 25);
 }
 .blog-grid .item .cont .info .tag span {
     font-family: 'Didact Gothic', sans-serif;
@@ -1429,7 +1429,7 @@ td {
   top: -40px;
   right: 15px;
   padding: 15px 15px 5px 15px;
-  background: #e52e71;
+  background:  rgb(241, 180, 25);
   font-size: 13px;
   text-align: center;
   z-index: 2;
@@ -1463,7 +1463,7 @@ td {
 }
 .blog-pg .posts .item .img .info .date {
   text-align: center;
-  color: #e52e71;
+  color:  rgb(241, 180, 25);
 }
 .blog-pg .posts .item .img .info .date .num {
   display: block;
@@ -1614,7 +1614,7 @@ td {
         display: block;
     font-family: 'Long Cang', cursive;
     font-size: 25px;
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
     font-weight: 400;
     margin-bottom: 0px;
 }
@@ -1628,7 +1628,7 @@ td {
     color: #101010;
 }
 .blog-page .post-cont h5 a:hover {
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
 }
 .blog-page .post-cont .info {
     margin-top: 0px;
@@ -1663,10 +1663,10 @@ td {
     color: #777;
 }
 .blog-sidebar .widget ul li a.active {
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
 }
 .blog-sidebar .widget ul li a:hover {
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
 }
 .blog-sidebar .widget ul li:last-child {
     margin-bottom: 0;
@@ -1714,7 +1714,7 @@ td {
     position: absolute;
     right: 0;
     top: 0;
-    background-color: #e52e71;
+    background-color:  rgb(241, 180, 25);
     color: #fff;
     border: 0;
     padding: 13px 20px 4px 20px;
@@ -1725,7 +1725,7 @@ td {
 .blog-sidebar .tags li {
     margin: 3px !important;
     padding: 6px 16px;
-    background-color: #e52e71;
+    background-color:  rgb(241, 180, 25);
     color: #fff !important;
     float: left;
 }
@@ -1761,12 +1761,12 @@ td {
 .blog-pagination-wrap li a:hover {
     opacity: 1;
     text-decoration: none;
-    background: #e52e71;
+    background:  rgb(241, 180, 25);
     color: #fff;
 }
 .blog-pagination-wrap li a.active {
-    background-color: #e52e71;
-    border: 1px solid #e52e71;
+    background-color:  rgb(241, 180, 25);
+    border: 1px solid  rgb(241, 180, 25);
     color: #fff;
 }
 @media screen and (max-width: 768px) {
@@ -1835,8 +1835,8 @@ td {
     margin-bottom: 10px;
 }
 .btn-cont a {
-  background: #e52e71;
-    border: 1px solid #e52e71;
+  background:  rgb(241, 180, 25);
+    border: 1px solid  rgb(241, 180, 25);
     color: #fff;
     padding: 13px 24px;
     margin: 0;
@@ -1905,7 +1905,7 @@ a.underline-text:hover {
     top: 85%;
     background-repeat: no-repeat;
     background-position: center 15px;
-    background-color: #e52e71;
+    background-color: rgb(241, 180, 25);
     font-size: 9px;
     line-height: 1;
     font-weight: 400;
@@ -1937,7 +1937,7 @@ a.underline-text:hover {
 }
 .totop:hover {
     color: #fff;
-    background: #e52e71;
+    background:  rgb(241, 180, 25);
     border: 1px solid rgba(255,255,255,0.2);
 }
 .totop:focus {
@@ -1956,16 +1956,16 @@ footer {
 .footer-section .brand img.logo {
     padding: 0;
     width: 150px;
-    margin-bottom: 10px;
+    /* margin-bottom: 10px; */
 }
 .footer-section h6 {
         display: block;
     margin-bottom: 5px;
     font-size: 35px;
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
 }
 .footer-section h1 {
-    color: #e52e71;
+    color:  rgb(241, 180, 25);
     font-size: 35px;
 }
 .footer-social-link {
@@ -2006,7 +2006,7 @@ footer {
 footer .sub-footer {
     padding: 30px 0;
     margin-top: 100px;
-        background: #e52e71;
+        background:  rgb(241, 180, 25);
 }
 footer .sub-footer p {
     font-size: 14px;
