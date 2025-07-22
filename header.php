@@ -16,6 +16,7 @@
     <link href="modules/magnific-popup/magnific-popup.css" rel="stylesheet">
     <link href="modules/swiper/swiper.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
+
 </head>
 
 <body>
@@ -40,7 +41,7 @@
                                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
                                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                         <ul class="navbar-nav ml-auto py-4 py-md-0">
-                                            <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 active"> <a class="nav-link" href="#">Home</a></li>
+                                            <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4"> <a class="nav-link" href="#">Home</a></li>
                                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4"> <a class="nav-link" href="#about">About</a></li>
                                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4"> <a class="nav-link" href="#services">Services</a></li>
                                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4"> <a class="nav-link" href="#gallery">Gallery</a></li>
