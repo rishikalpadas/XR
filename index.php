@@ -63,10 +63,11 @@
             <div class="col-md-8 mb-30 animate-box" data-animate-effect="fadeInUp">
                 <span>Meet Riya</span>
                 <h1>About Xpressions By Riya</h1>
-                <p>Makeup faucibus mi id convallis pulvinar velit est vulputate elit sed suscin the maurisen anteeget mi. Mauris tincidunt nulla. Donec velit urna congue et magna uthe consele tecmetur accumsan turpis. Etiam ac torto the luctus. Etiam ac tortor porttitor lucte odio ac aliquam augue.</p>
-                <p>Praesent dienis elementum erateu interdun elit ullamcorper sit amet. Curabitur man ipse rhoncus felis nothe viverra dana elemtum velit. The etiam ac tortor porttitor luctus odio ac aliquam augue. Praesent the dienis elemen erateun interdun elit. Curabitur man ipse rhoncus felis nonte viverra.</p>
+                <p>
+                    Myself, Riya Shaw, the owner of Xpressions By Riya,working as a ISO certified freelancing Makeup Artist since 2019,based in Kolkata. Makeup is art to make oneself feel and look beautiful both from inside and outside. I blend modern techniques and provide premium services like Pre-Wedding,Wedding,Post-Wedding function and makeovers for all other occasions with a n affordable price. I worked with various Brides-to-be and have an in-depth knowledge of Makeup suitability for all skin type. My passion is to create transformation with my art of Makeup and provide the desired gorgeous & glamorous look on the booked special day. I Quote to have a long-list of satisfied clients with an exceptional services.
+                </p>
                 <p class="text-right mb-0"><span>Riya</span></p>
-                <p class="text-right">Head Makeup Artist & Hairstylist and Founder</p>
+                <p class="text-right">Head Makeup Artist & Founder</p>
             </div>
             <div class="col-md-4">
                 <div class="fredia-about-img animate-box" data-animate-effect="fadeInUp">
