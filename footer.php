@@ -6,7 +6,7 @@
                 <div class="col-md-4">
                     <h6>Xpressions by Riya</h6>
                     <p>
-                        <img src="images/logo-xr.jpeg" alt="" style="border-radius: 50%; width: 100px; height: 100px;">
+                        <img src="images/xr-logo.png" alt="" >
                     </p>
 
                 </div>
@@ -15,7 +15,7 @@
                     <p>E-mail Address:
                         <br>xpressionsbyriya@gmail.com
                     </p>
-                    <div class="btn-cont"><a href="#"><span>Book Appointment</span></a></div>
+                    <div class="btn-cont"><a href="https://wa.me/917044379995"><span>Book Appointment</span></a></div>
                     <br>
                 </div>
                 <div class="col-md-4">
@@ -33,7 +33,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="text-left">
-                        <p>© 2025. All right reserved.</p>
+                        <p>© 2025. All right reserved. Powered by Createdge</p>
                     </div>
                 </div>
                 <div class="col-md-4">

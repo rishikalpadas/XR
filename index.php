@@ -71,7 +71,7 @@
             </div>
             <div class="col-md-4">
                 <div class="fredia-about-img animate-box" data-animate-effect="fadeInUp">
-                    <div class="img"> <img src="images/about.jpg" alt=""> </div>
+                    <div class="img"> <img src="images/gallery/33.jpeg" alt=""> </div>
                 </div>
             </div>
         </div>
@@ -88,39 +88,84 @@
                 <h1>Makeup Services</h1>
             </div>
         </div>
-        <div class="row fredia-services">
-            <div class="col-md-3">
-                <div class="item mb-30 animate-box" data-animate-effect="fadeInUp">
-                    <span class="icon flaticon-039-make-up"></span>
-                    <h5>Face Makeup</h5>
-                    <p>Fusce cursus lectus tellus. Vivamus cursus turpis auctor semper lobortis.</p>
-                    <!-- <p><a href="services-page.html" class="underline-text">Read More</a></p> -->
+        <div class="row fredia-services" style="display: flex; flex-wrap: wrap;">
+            <div class="col-md-3" style="display: flex;">
+                <div class="item mb-30 animate-box" data-animate-effect="fadeInUp" style="display: flex; flex-direction: column; height: 100%;">
+                    <i class="fas fa-palette" style="font-size: 4rem; color: rgb(241, 180, 25); margin-bottom: 15px; display: block;"></i>
+                    <h5>Party Makeup</h5>
+                    <p id="text-1">Party makeup is a step up from daily makeup, offering a more polished and even look using a single foundation shade.</p>
+                    <p id="more-1" style="display: none;">Since makeup is an art with no fixed rules, our artists love experimenting with different products and techniques to find what suits you best—because what works for one may not work for all.</p>
+                    <p style="margin-top: auto;"><a href="javascript:void(0)" id="btn-1" onclick="toggleText(1)" class="underline-text">Read More</a></p>
                 </div>
             </div>
-            <div class="col-md-3">
-                <div class="item mb-30 animate-box" data-animate-effect="fadeInUp">
-                    <span class="icon flaticon-007-mascara-4"></span>
-                    <h5>Eye Makeup</h5>
-                    <p>Fusce cursus lectus tellus. Vivamus cursus turpis auctor semper lobortis.</p>
-                    <!-- <p><a href="services-page.html" class="underline-text">Read More</a></p> -->
+            <div class="col-md-3" style="display: flex;">
+                <div class="item mb-30 animate-box" data-animate-effect="fadeInUp" style="display: flex; flex-direction: column; height: 100%;">
+                    <i class="fas fa-video" style="font-size: 4rem; color: rgb(241, 180, 25); margin-bottom: 15px; display: block;"></i>
+                    <h5>HD Makeup</h5>
+                    <p id="text-2">HD makeup, or High Definition makeup, was created to meet the demands of high-resolution cameras and the trend for natural-looking beauty.</p>
+                    <p id="more-2" style="display: none;">Unlike regular makeup, HD products are lightweight yet offer excellent coverage, hiding imperfections like blemishes, scars, and uneven texture without looking cakey. Infused with light-diffusing ingredients like mica and silicone, it gives a smooth, flawless, and camera-ready finish that looks great both in person and on screen. <br>
+Perfect for weddings, shoots, and special events, HD makeup blends seamlessly into the skin, offering a natural, soft, and non-greasy glow—ideal for those who want a polished look with minimal heaviness.</p>
+                    <p style="margin-top: auto;"><a href="javascript:void(0)" id="btn-2" onclick="toggleText(2)" class="underline-text">Read More</a></p>
                 </div>
             </div>
-            <div class="col-md-3">
-                <div class="item mb-30 animate-box" data-animate-effect="fadeInUp">
-                    <span class="icon flaticon-034-eyebrow"></span>
-                    <h5>Eyebrow Makeup</h5>
-                    <p>Fusce cursus lectus tellus. Vivamus cursus turpis auctor semper lobortis.</p>
-                    <!-- <p><a href="services-page.html" class="underline-text">Read More</a></p> -->
+            <div class="col-md-3" style="display: flex;">
+                <div class="item mb-30 animate-box" data-animate-effect="fadeInUp" style="display: flex; flex-direction: column; height: 100%;">
+                    <i class="fas fa-crown" style="font-size: 4rem; color: rgb(241, 180, 25); margin-bottom: 15px; display: block;"></i>
+                    <h5>Bridal HD Makeup</h5>
+                    <p id="text-3">This look is for the bride who wants to feel like herself—naturally enhanced, not masked.</p>
+                    <p id="more-3" style="display: none;">With minimal layers and subtle touches, it highlights your best features effortlessly—perfect for a fresh, spring or summer wedding.</p>
+                    <p style="margin-top: auto;"><a href="javascript:void(0)" id="btn-3" onclick="toggleText(3)" class="underline-text">Read More</a></p>
                 </div>
             </div>
-            <div class="col-md-3">
-                <div class="item mb-30 animate-box" data-animate-effect="fadeInUp">
-                    <span class="icon flaticon-018-scissors"></span>
-                    <h5>Haircut Makeup</h5>
-                    <p>Fusce cursus lectus tellus. Vivamus cursus turpis auctor semper lobortis.</p>
-                    <!-- <p><a href="services-page.html" class="underline-text">Read More</a></p> -->
+            <div class="col-md-3" style="display: flex;">
+                <div class="item mb-30 animate-box" data-animate-effect="fadeInUp" style="display: flex; flex-direction: column; height: 100%;">
+                    <i class="fas fa-ring" style="font-size: 4rem; color: rgb(241, 180, 25); margin-bottom: 15px; display: block;"></i>
+                    <h5>Engagement Makeup</h5>
+                    <p id="text-4">Your engagement day makeup sets the tone for all your pre-wedding events.</p>
+                    <p id="more-4" style="display: none;">As the first official ceremony, it deserves special attention—you'll want to look unique and unforgettable. Since each function will be captured in countless photos, your makeup should reflect the occasion and setting, making your walk to the stage truly memorable.</p>
+                    <p style="margin-top: auto;"><a href="javascript:void(0)" id="btn-4" onclick="toggleText(4)" class="underline-text">Read More</a></p>
                 </div>
             </div>
+             <div class="col-md-3" style="display: flex; margin-top: 30px;">
+                <div class="item mb-30 animate-box" data-animate-effect="fadeInUp" style="display: flex; flex-direction: column; height: 100%;">
+                    <i class="fas fa-leaf" style="font-size: 4rem; color: rgb(241, 180, 25); margin-bottom: 15px; display: block;"></i>
+                    <h5>Mineral Makeup</h5>
+                    <p id="text-5">Mineral makeup is the most natural-looking option, free from chemicals and ideal for sensitive skin.</p>
+                    <p id="more-5" style="display: none;">It offers a dewy finish and skin-friendly benefits, making it perfect for brides or bridesmaids who want a soft, radiant look. Traditional or regular makeup, while affordable and widely available, can sometimes appear cakey or less long-lasting. Choose what suits your skin, budget, and the occasion best!</p>
+                    <p style="margin-top: auto;"><a href="javascript:void(0)" id="btn-5" onclick="toggleText(5)" class="underline-text">Read More</a></p>
+                </div>
+            </div>
+             <div class="col-md-3" style="display: flex; margin-top: 30px;">
+                <div class="item mb-30 animate-box" data-animate-effect="fadeInUp" style="display: flex; flex-direction: column; height: 100%;">
+                    <i class="fas fa-spray-can" style="font-size: 4rem; color: rgb(241, 180, 25); margin-bottom: 15px; display: block;"></i>
+                    <h5>Airbrush Makeup</h5>
+                    <p id="text-6">Airbrush makeup is a cutting-edge technique where makeup is sprayed as a fine mist for a flawless, natural finish—perfect for HD and 4K cameras.</p>
+                    <p id="more-6" style="display: none;">It offers excellent coverage, is lightweight, buildable, quick-drying, long-lasting (up to 20 hrs), and highly hygienic. Ideal for brides and camera-ready looks, it's waterproof and smoothens imperfections without feeling cakey. Compared to HD makeup—which uses brushes and light-diffusing products for a soft, blended look—airbrush makeup stands out for its precision and longevity.</p>
+                    <p style="margin-top: auto;"><a href="javascript:void(0)" id="btn-6" onclick="toggleText(6)" class="underline-text">Read More</a></p>
+                </div>
+            </div>
+             <div class="col-md-3" style="display: flex; margin-top: 30px;">
+                <div class="item mb-30 animate-box" data-animate-effect="fadeInUp" style="display: flex; flex-direction: column; height: 100%;">
+                    <i class="fas fa-tshirt" style="font-size: 4rem; color: rgb(241, 180, 25); margin-bottom: 15px; display: block;"></i>
+                    <h5>Draping</h5>
+                    <p id="text-7">Draping in fashion is the art of shaping fabric directly on a dress form to create unique, 3D designs.</p>
+                    <p id="more-7" style="display: none;">In Indian wear, saree draping involves tucking, pleating, and styling the pallu for a traditional look. Lehenga draping focuses on styling the dupatta in various ways—like classic, belted, or half-saree styles—often mimicking a saree pallu to add elegance and cultural flair.</p>
+                    <p style="margin-top: auto;"><a href="javascript:void(0)" id="btn-7" onclick="toggleText(7)" class="underline-text">Read More</a></p>
+                </div>
+            </div>
+             <div class="col-md-3" style="display: flex; margin-top: 30px;">
+                <div class="item mb-30 animate-box" data-animate-effect="fadeInUp" style="display: flex; flex-direction: column; height: 100%;">
+                    <i class="fas fa-cut" style="font-size: 4rem; color: rgb(241, 180, 25); margin-bottom: 15px; display: block;"></i>
+                    <h5>Hairstyle</h5>
+                    <p id="text-8">Bridal hairstyles range from elegant buns to intricate open styles, tailored to match the bride's look and theme.</p>
+                    <p id="more-8" style="display: none;">Bridal buns include styles like low, high, messy, and braided buns—each offering a unique vibe from classic to romantic. <br>
+
+Open hairstyles combine flowing locks with braids, twists, or waves for a soft yet sophisticated appearance. <br>
+Whether it's textured buns or glam open waves, bridal hair is all about enhancing beauty with style and grace.</p>
+                    <p style="margin-top: auto;"><a href="javascript:void(0)" id="btn-8" onclick="toggleText(8)" class="underline-text">Read More</a></p>
+                </div>
+            </div>
+            
         </div>
         <div class="row">
             <div class="col-md-12 text-right animate-box" data-animate-effect="fadeInUp">
@@ -128,92 +173,108 @@
             </div>
         </div>
     </div>
+</div>
 
-    <!-- Packages -->
-<div id="packages">
+<script>
+function toggleText(id) {
+    var moreText = document.getElementById("more-" + id);
+    var btnText = document.getElementById("btn-" + id);
+    
+    if (moreText.style.display === "none") {
+        moreText.style.display = "inline";
+        btnText.innerHTML = "Read Less";
+    } else {
+        moreText.style.display = "none";
+        btnText.innerHTML = "Read More";
+    }
+}
+</script>
+
+<!-- Packages -->
+<div id="packages" style="background:linear-gradient(to right, #fff8f8, #ffe6e6); padding:60px 20px; font-family:'Poppins', sans-serif;">
+
     <div class="container">
         <div class="row">
-            <div class="col-md-12 mb-30 animate-box" data-animate-effect="fadeInUp">
-                <!-- <span>What I Offer?</span> -->
-                <h1>Packages</h1>
+            <div class="col-md-12 mb-30 animate-box" data-animate-effect="fadeInUp" style="text-align:center;">
+                <h1 style="font-size:40px; font-weight:700;
+                    background: linear-gradient(45deg, #FFD700, #FFB700, #FFA500);
+                    -webkit-background-clip: text;
+                    -webkit-text-fill-color: transparent;
+                    text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+                    margin-bottom:30px; letter-spacing:1px;">
+                    Packages
+                </h1>
             </div>
         </div>
-        <div class="row fredia-services">
-            <div class="col-md-4">
-                <div class="item mb-30 animate-box" data-animate-effect="fadeInUp">
-                    <!-- <span class="icon flaticon-039-make-up"></span> -->
-                    <h5>Bridal Makeover Packages <br /> (Within Kolkata) </h5>
-                    <p>
-                        1. Non-HD Package - 10k <br />
-                        2. HD Package - 15k <br />
-                        3. Airbrush Package - 20k <br />
-                    </p>
-                </div>
+
+        <div class="row fredia-services" style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px;">
+
+            <style>
+                .package-card {
+                    background: #fff;
+                    border-radius: 15px;
+                    padding: 25px 15px;
+                    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+                    transition: all 0.3s ease;
+                    text-align: center;
+                    flex: 1 1 calc(33% - 40px);
+                    min-width: 280px;
+                }
+                .package-card:hover {
+                    transform: translateY(-8px);
+                    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+                }
+                .package-card h5 {
+                    font-size: 20px;
+                    font-weight: 600;
+                    background: linear-gradient(45deg, #FFD700, #FFB700, #FFA500);
+                    -webkit-background-clip: text;
+                    -webkit-text-fill-color: transparent;
+                    text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+                    margin-bottom: 10px;
+                }
+                .package-card p {
+                    font-size: 16px;
+                    color: #444;
+                    line-height: 1.7;
+                }
+            </style>
+
+            <!-- Package Items -->
+            <div class="package-card animate-box" data-animate-effect="fadeInUp">
+                <h5>Bridal Makeover Packages <br>(Within Kolkata)</h5>
+                <p>1. Non-HD - <b style="color:#cc9900;">10k</b><br>2. HD - <b style="color:#cc9900;">15k</b><br>3. Airbrush - <b style="color:#cc9900;">20k</b></p>
             </div>
-            <div class="col-md-4">
-                <div class="item mb-30 animate-box" data-animate-effect="fadeInUp">
-                    <!-- <span class="icon flaticon-007-mascara-4"></span> -->
-                    <h5>Bridal Makeover Packages <br /> (Outstation Charges) </h5>
-                    <p>
-                        1. Non-HD Package - 15k <br />
-                        2. HD Package - 20k <br />
-                        3. Airbrush Package - 25k <br />
-                    </p>
-                </div>
+
+            <div class="package-card animate-box" data-animate-effect="fadeInUp">
+                <h5>Bridal Makeover Packages <br>(Outstation Charges)</h5>
+                <p>1. Non-HD - <b style="color:#cc9900;">15k</b><br>2. HD - <b style="color:#cc9900;">20k</b><br>3. Airbrush - <b style="color:#cc9900;">25k</b></p>
             </div>
-            <div class="col-md-4">
-                <div class="item mb-30 animate-box" data-animate-effect="fadeInUp">
-                    <!-- <span class="icon flaticon-034-eyebrow"></span> -->
-                    <h5>Party Makeover Packages <br /> (Within Kolkata) </h5>
-                    <p>
-                        1. Non-HD Package - 3.5k <br />
-                        2. HD Package - 5k <br />
-                        3. Airbrush Package - 7k <br />
-                    </p>
-                </div>
+
+            <div class="package-card animate-box" data-animate-effect="fadeInUp">
+                <h5>Party Makeover Packages <br>(Within Kolkata)</h5>
+                <p>1. Non-HD - <b style="color:#cc9900;">3.5k</b><br>2. HD - <b style="color:#cc9900;">5k</b><br>3. Airbrush - <b style="color:#cc9900;">7k</b></p>
             </div>
-            <div class="col-md-4">
-                <div class="item mb-30 animate-box" data-animate-effect="fadeInUp">
-                    <!-- <span class="icon flaticon-018-scissors"></span> -->
-                    <h5>Party Makeover Packages <br /> (Out Station) </h5>
-                    <p>
-                        1. Non-HD Package - 4k <br />
-                        2. HD Package - 6k <br />
-                        3. Airbrush Package - 8k <br />
-                    </p>
-                </div>
+
+            <div class="package-card animate-box" data-animate-effect="fadeInUp">
+                <h5>Party Makeover Packages <br>(Outstation)</h5>
+                <p>1. Non-HD - <b style="color:#cc9900;">4k</b><br>2. HD - <b style="color:#cc9900;">6k</b><br>3. Airbrush - <b style="color:#cc9900;">8k</b></p>
             </div>
-            <div class="col-md-4">
-                <div class="item mb-30 animate-box" data-animate-effect="fadeInUp">
-                    <!-- <span class="icon flaticon-018-scissors"></span> -->
-                    <h5>Semi-Bridal Makeover Packages <br /> (within Kolkata)</h5>
-                    <p>
-                        1. Non-HD Package - 5k <br />
-                        2. HD Package - 7k <br />
-                        3. Airbrush Package - 9k <br />
-                    </p>
-                </div>
+
+            <div class="package-card animate-box" data-animate-effect="fadeInUp">
+                <h5>Semi-Bridal Makeover Packages <br>(Within Kolkata)</h5>
+                <p>1. Non-HD - <b style="color:#cc9900;">5k</b><br>2. HD - <b style="color:#cc9900;">7k</b><br>3. Airbrush - <b style="color:#cc9900;">9k</b></p>
             </div>
-            <div class="col-md-4">
-                <div class="item mb-30 animate-box" data-animate-effect="fadeInUp">
-                    <!-- <span class="icon flaticon-018-scissors"></span> -->
-                    <h5>Semi-Bridal Makeover Packages <br /> (Outstation)</h5>
-                    <p>
-                        1. Non-HD Package - 7k <br />
-                        2. HD Package - 9k <br />
-                        3. Airbrush Package - 10k <br />
-                    </p>
-                </div>
+
+            <div class="package-card animate-box" data-animate-effect="fadeInUp">
+                <h5>Semi-Bridal Makeover Packages <br>(Outstation)</h5>
+                <p>1. Non-HD - <b style="color:#cc9900;">7k</b><br>2. HD - <b style="color:#cc9900;">9k</b><br>3. Airbrush - <b style="color:#cc9900;">10k</b></p>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12 text-right animate-box" data-animate-effect="fadeInUp">
-                <!-- <p><a href="services.html" class="underline-text">See All Services</a></p> -->
-            </div>
+
         </div>
     </div>
 </div>
-</div>
+
 
 <div class="section-padding" id="gallery">
     <div class="container">
