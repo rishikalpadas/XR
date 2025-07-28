@@ -47,8 +47,8 @@
         <div class="swiper-pagination top botm"></div>
         <!-- social media -->
         <div class="social-icon">
-            <a href="#0"><i class="ti-facebook"></i></a>
-            <a href="#0"><i class="ti-instagram"></i></a>
+            <a href="https://www.facebook.com/xpressionsbyriya/"><i class="ti-facebook"></i></a>
+            <a href="https://www.instagram.com/xpressionsbyriya/?igsh=MTFmdWJucWwzaWtvNg%3D%3D#"><i class="ti-instagram"></i></a>
             <!-- <a href="#0"><i class="ti-pinterest"></i></a> -->
             <!-- <a href="#0"><i class="ti-youtube"></i></a> -->
         </div>

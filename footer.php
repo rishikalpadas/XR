@@ -39,9 +39,9 @@
                 <div class="col-md-4">
                     <div class="text-right">
                         <ul class="footer-social-link">
-                            <li><a href="#0"><i class="ti-facebook"></i></a></li>
+                            <li><a href="https://www.facebook.com/xpressionsbyriya/"><i class="ti-facebook"></i></a></li>
                             <!-- <li><a href="#0"><i class="ti-twitter"></i></a></li> -->
-                            <li><a href="#0"><i class="ti-instagram"></i></a></li>
+                            <li><a href="https://www.instagram.com/xpressionsbyriya/?igsh=MTFmdWJucWwzaWtvNg%3D%3D#"><i class="ti-instagram"></i></a></li>
                             <!-- <li><a href="#0"><i class="ti-pinterest"></i></a></li> -->
                         </ul>
                     </div>
