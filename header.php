@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" href="images/logo-xr.png" />
+    <link rel="icon" type="image/png" href="images/logo-xr.jpeg" />
     <title>Xpressions By Riya</title>
     <link href="css/bootstrap.min.css" rel=stylesheet>
     <link href="css/animate.css" rel="stylesheet">
@@ -25,7 +25,7 @@
     <!-- Preloader -->
     <div id="fredia-page-loading" class="fredia-pageloading">
         <div class="fredia-pageloading-inner">
-            <a class="fredia-pageloading" href="index.html"> <img src="images/xr-logo.png" alt=" "> </a>
+            <a class="fredia-pageloading" href="index.html"> <img src="images/logo-xr.jpeg" alt=" "> </a>
         </div>
     </div>
     <!-- Header -->
@@ -38,7 +38,7 @@
                             <div class="col-md-12">
                                 <nav class="navbar navbar-expand-md navbar-light">
                                     <!-- Logo -->
-                                    <a class="navbar-brand" href="index.html"> <img src="images/xr-logo.png" alt=""> </a>
+                                    <a class="navbar-brand" href="index.html"> <img src="images/logo-xr.jpeg" alt="" style="width: 100px; height: auto;"> </a>
                                     <!-- Menu -->
                                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
                                     <div class="collapse navbar-collapse" id="navbarSupportedContent">

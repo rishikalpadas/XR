@@ -6,7 +6,7 @@
                 <div class="col-md-4">
                     <h6>Xpressions by Riya</h6>
                     <p>
-                        <img src="images/xr-logo.png" alt="" >
+                        <img src="images/logo-xr.jpeg" alt="" style="width: 100px; height: auto;">
                     </p>
 
                 </div>
